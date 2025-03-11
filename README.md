@@ -12,6 +12,6 @@
 - 🐍 **[Snake Game](https://github.com/vetalguru/snake)** — classic snake game Qt implementation
 - 📡 **[Binance Telegram Bot](https://github.com/vetalguru/binance_telegram_bot)** — automated trading notifications
 
-### 📫 Contact:
+### 📫 Contacts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shkibtanvitalii)
 [![Email](https://img.shields.io/badge/Email-Mailto-orange)](mailto:vetalguru@gmail.com)
