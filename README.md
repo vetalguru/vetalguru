@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://github.com/vetalguru">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vetalguru&theme=gruvbox" width="775"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vetalguru&theme=gruvbox" width="770"/>
   </a>
 </p>
 
