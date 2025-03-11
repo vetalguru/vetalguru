@@ -25,6 +25,7 @@
   <a href="https://github.com/vetalguru">
     <img src="https://github-readme-stats.vercel.app/api?username=vetalguru&show_icons=true&theme=gruvbox&hide_title=true" height="165"/>
   </a>
+
   <a href="https://github.com/vetalguru">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vetalguru&layout=compact&theme=gruvbox" height="165"/>
   </a>
