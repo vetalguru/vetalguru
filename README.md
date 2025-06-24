@@ -3,6 +3,7 @@
 ### 📌 Featured Projects
 
 - 🤖 **[Number Recognition](https://github.com/vetalguru/number_recognition)** — ML-based number recognition.
+- 🧹 **[Duplicate Finder](https://github.com/vetalguru/duplicate-finder)** — Command-line tool to scan directories, detect duplicate files, and optionally delete or export reports.
 - 📜 **[Logger](https://github.com/vetalguru/logger)** — Lightweight logging library for efficient debugging.
 - ⏱ **[Execution Timer](https://github.com/vetalguru/execution_timer)** — High-precision execution time measurement tool.
 - 🌍 **[Wake-On-LAN](https://github.com/vetalguru/wol)** — Remote device wake-up utility.
