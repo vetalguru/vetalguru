@@ -14,6 +14,7 @@
 - 🕵️‍♂️ **[Sniffer](https://github.com/vetalguru/sniffer)** — Lightweight network traffic analyzer and packet sniffer.
 - 🤖 **[AI Assistant](https://github.com/vetalguru/ai_assistant)** — Ollama + n8n in dockers to provide local host based AI agents functionality
 - 🗄️ **[File System Assistance](https://github.com/vetalguru/fsassistant)** — File system assistance
+- 🗃 **[SQLite Manager](https://github.com/vetalguru/sqlite_manager)** — SQLite database manager.
 
 #### Development:
 - 📜 **[Logger](https://github.com/vetalguru/logger)** — Lightweight logging library for efficient debugging.
