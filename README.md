@@ -12,8 +12,8 @@
 - 🖥 **[LifeExport](https://github.com/vetalguru/LifeExport)** — Comprehensive file system monitoring solution with a kernel-mode filesystem filter-driver, user-mode service, and management application.
 - ⚙ **[UEFI Apps](https://github.com/vetalguru/UEFI_Apps)** — Collection of applications for UEFI environment.
 - 🕵️‍♂️ **[Sniffer](https://github.com/vetalguru/sniffer)** — Lightweight network traffic analyzer and packet sniffer.
-- 🤖 **[AI Assistant](https://github.com/vetalguru/ai_assistant)** — Ollama + n8n  in dockers to provide local host based AI agents functionality
-- 🗄️ **[File System Assistance](https://github.com/vetalguru/fsassistant)** — File system assistanse
+- 🤖 **[AI Assistant](https://github.com/vetalguru/ai_assistant)** — Ollama + n8n in dockers to provide local host based AI agents functionality
+- 🗄️ **[File System Assistance](https://github.com/vetalguru/fsassistant)** — File system assistance
 
 #### Development:
 - 📜 **[Logger](https://github.com/vetalguru/logger)** — Lightweight logging library for efficient debugging.
